@@ -1,0 +1,801 @@
+###Concatenating library files###
+
+LIB003224_S70_L005_R1_001.fastq.gz
+LIB003224_S70_L005_R2_001.fastq.gz
+LIB003224_S70_L006_R1_001.fastq.gz
+LIB003224_S70_L006_R2_001.fastq.gz
+
+
+cat LIB003224_S70_L005_R1_001.fastq.gz LIB003224_S70_L006_R1_001.fastq.gz > LIB003224_S70_R1_001.fastq.gz
+cat LIB003224_S70_L005_R2_001.fastq.gz LIB003224_S70_L006_R2_001.fastq.gz > LIB003224_S70_R2_001.fastq.gz
+
+LIB003225_S98_L005_R1_001.fastq.gz
+LIB003225_S98_L005_R2_001.fastq.gz
+LIB003225_S98_L006_R1_001.fastq.gz
+LIB003225_S98_L006_R2_001.fastq.gz
+
+cat LIB003225_S98_L005_R1_001.fastq.gz LIB003225_S98_L006_R1_001.fastq.gz > LIB003225_S98_R1_001.fastq.gz
+cat LIB003225_S98_L005_R2_001.fastq.gz LIB003225_S98_L006_R2_001.fastq.gz > LIB003225_S98_R2_001.fastq.gz
+
+LIB003226_S81_L005_R1_001.fastq.gz
+LIB003226_S81_L005_R2_001.fastq.gz
+LIB003226_S81_L006_R1_001.fastq.gz
+LIB003226_S81_L006_R2_001.fastq.gz
+
+cat LIB003226_S81_L005_R1_001.fastq.gz LIB003226_S81_L006_R1_001.fastq.gz > LIB003226_S81_R1_001.fastq.gz
+cat LIB003226_S81_L005_R2_001.fastq.gz LIB003226_S81_L006_R2_001.fastq.gz > LIB003226_S81_R2_001.fastq.gz
+
+LIB003227_S82_L005_R1_001.fastq.gz
+LIB003227_S82_L005_R2_001.fastq.gz
+LIB003227_S82_L006_R1_001.fastq.gz
+LIB003227_S82_L006_R2_001.fastq.gz
+
+cat LIB003227_S82_L005_R1_001.fastq.gz LIB003227_S82_L006_R1_001.fastq.gz > LIB003227_S82_R1_001.fastq.gz
+cat LIB003227_S82_L005_R2_001.fastq.gz LIB003227_S82_L006_R2_001.fastq.gz > LIB003227_S82_R2_001.fastq.gz
+
+LIB003228_S41_L005_R1_001.fastq.gz
+LIB003228_S41_L005_R2_001.fastq.gz
+LIB003228_S41_L006_R1_001.fastq.gz
+LIB003228_S41_L006_R2_001.fastq.gz
+
+cat LIB003228_S41_L005_R1_001.fastq.gz LIB003228_S41_L006_R1_001.fastq.gz > LIB003228_S41_R1_001.fastq.gz
+cat LIB003228_S41_L005_R2_001.fastq.gz LIB003228_S41_L006_R2_001.fastq.gz > LIB003228_S41_R2_001.fastq.gz
+
+LIB003229_S56_L005_R1_001.fastq.gz
+LIB003229_S56_L005_R2_001.fastq.gz
+LIB003229_S56_L006_R1_001.fastq.gz
+LIB003229_S56_L006_R2_001.fastq.gz
+
+cat LIB003229_S56_L005_R1_001.fastq.gz LIB003229_S56_L006_R1_001.fastq.gz > LIB003229_S56_R1_001.fastq.gz
+cat LIB003229_S56_L005_R2_001.fastq.gz LIB003229_S56_L006_R2_001.fastq.gz > LIB003229_S56_R2_001.fastq.gz
+
+LIB003230_S58_L005_R1_001.fastq.gz
+LIB003230_S58_L005_R2_001.fastq.gz
+LIB003230_S58_L006_R1_001.fastq.gz
+LIB003230_S58_L006_R2_001.fastq.gz
+
+cat LIB003230_S58_L005_R1_001.fastq.gz LIB003230_S58_L006_R1_001.fastq.gz > LIB003230_S58_R1_001.fastq.gz
+cat LIB003230_S58_L005_R2_001.fastq.gz LIB003230_S58_L006_R2_001.fastq.gz > LIB003230_S58_R2_001.fastq.gz
+
+LIB003231_S65_L005_R1_001.fastq.gz
+LIB003231_S65_L005_R2_001.fastq.gz
+LIB003231_S65_L006_R1_001.fastq.gz
+LIB003231_S65_L006_R2_001.fastq.gz
+
+cat LIB003231_S65_L005_R1_001.fastq.gz LIB003231_S65_L006_R1_001.fastq.gz > LIB003231_S65_R1_001.fastq.gz
+cat LIB003231_S65_L005_R2_001.fastq.gz LIB003231_S65_L006_R2_001.fastq.gz > LIB003231_S65_R2_001.fastq.gz
+
+LIB003232_S54_L005_R1_001.fastq.gz
+LIB003232_S54_L005_R2_001.fastq.gz
+LIB003232_S54_L006_R1_001.fastq.gz
+LIB003232_S54_L006_R2_001.fastq.gz
+
+cat LIB003232_S54_L005_R1_001.fastq.gz LIB003232_S54_L006_R1_001.fastq.gz > LIB003232_S54_R1_001.fastq.gz
+cat LIB003232_S54_L005_R2_001.fastq.gz LIB003232_S54_L006_R2_001.fastq.gz > LIB003232_S54_R2_001.fastq.gz
+
+LIB003233_S85_L005_R1_001.fastq.gz
+LIB003233_S85_L005_R2_001.fastq.gz
+LIB003233_S85_L006_R1_001.fastq.gz
+LIB003233_S85_L006_R2_001.fastq.gz
+
+cat LIB003233_S85_L005_R1_001.fastq.gz LIB003233_S85_L006_R1_001.fastq.gz > LIB003233_S85_R1_001.fastq.gz
+cat LIB003233_S85_L005_R2_001.fastq.gz LIB003233_S85_L006_R2_001.fastq.gz > LIB003233_S85_R2_001.fastq.gz
+
+LIB003234_S43_L005_R1_001.fastq.gz
+LIB003234_S43_L005_R2_001.fastq.gz
+LIB003234_S43_L006_R1_001.fastq.gz
+LIB003234_S43_L006_R2_001.fastq.gz
+
+cat LIB003234_S43_L005_R1_001.fastq.gz LIB003234_S43_L006_R1_001.fastq.gz > LIB003234_S43_R1_001.fastq.gz
+cat LIB003234_S43_L005_R2_001.fastq.gz LIB003234_S43_L006_R2_001.fastq.gz > LIB003234_S43_R2_001.fastq.gz
+
+LIB003235_S55_L005_R1_001.fastq.gz
+LIB003235_S55_L005_R2_001.fastq.gz
+LIB003235_S55_L006_R1_001.fastq.gz
+LIB003235_S55_L006_R2_001.fastq.gz
+
+cat LIB003235_S55_L005_R1_001.fastq.gz LIB003235_S55_L006_R1_001.fastq.gz > LIB003235_S55_R1_001.fastq.gz
+cat LIB003235_S55_L005_R2_001.fastq.gz LIB003235_S55_L006_R2_001.fastq.gz > LIB003235_S55_R2_001.fastq.gz
+
+LIB003236_S67_L005_R1_001.fastq.gz
+LIB003236_S67_L005_R2_001.fastq.gz
+LIB003236_S67_L006_R1_001.fastq.gz
+LIB003236_S67_L006_R2_001.fastq.gz
+
+cat LIB003236_S67_L005_R1_001.fastq.gz LIB003236_S67_L006_R1_001.fastq.gz > LIB003236_S67_R1_001.fastq.gz
+cat LIB003236_S67_L005_R2_001.fastq.gz LIB003236_S67_L006_R2_001.fastq.gz > LIB003236_S67_R2_001.fastq.gz
+
+LIB003237_S76_L005_R1_001.fastq.gz
+LIB003237_S76_L005_R2_001.fastq.gz
+LIB003237_S76_L006_R1_001.fastq.gz
+LIB003237_S76_L006_R2_001.fastq.gz
+
+cat LIB003237_S76_L005_R1_001.fastq.gz LIB003237_S76_L006_R1_001.fastq.gz > LIB003237_S76_R1_001.fastq.gz
+cat LIB003237_S76_L005_R2_001.fastq.gz LIB003237_S76_L006_R2_001.fastq.gz > LIB003237_S76_R2_001.fastq.gz
+
+LIB003238_S87_L005_R1_001.fastq.gz
+LIB003238_S87_L005_R2_001.fastq.gz
+LIB003238_S87_L006_R1_001.fastq.gz
+LIB003238_S87_L006_R2_001.fastq.gz
+
+cat LIB003238_S87_L005_R1_001.fastq.gz LIB003238_S87_L006_R1_001.fastq.gz > LIB003238_S87_R1_001.fastq.gz
+cat LIB003238_S87_L005_R2_001.fastq.gz LIB003238_S87_L006_R2_001.fastq.gz > LIB003238_S87_R2_001.fastq.gz
+
+LIB003239_S72_L005_R1_001.fastq.gz
+LIB003239_S72_L005_R2_001.fastq.gz
+LIB003239_S72_L006_R1_001.fastq.gz
+LIB003239_S72_L006_R2_001.fastq.gz
+
+cat LIB003239_S72_L005_R1_001.fastq.gz LIB003239_S72_L006_R1_001.fastq.gz > LIB003239_S72_R1_001.fastq.gz
+cat LIB003239_S72_L005_R2_001.fastq.gz LIB003239_S72_L006_R2_001.fastq.gz > LIB003239_S72_R2_001.fastq.gz
+
+LIB003240_S50_L005_R1_001.fastq.gz
+LIB003240_S50_L005_R2_001.fastq.gz
+LIB003240_S50_L006_R1_001.fastq.gz
+LIB003240_S50_L006_R2_001.fastq.gz
+
+cat LIB003240_S50_L005_R1_001.fastq.gz LIB003240_S50_L006_R1_001.fastq.gz > LIB003240_S50_R1_001.fastq.gz
+cat LIB003240_S50_L005_R2_001.fastq.gz LIB003240_S50_L006_R2_001.fastq.gz > LIB003240_S50_R2_001.fastq.gz
+
+LIB003241_S86_L005_R1_001.fastq.gz
+LIB003241_S86_L005_R2_001.fastq.gz
+LIB003241_S86_L006_R1_001.fastq.gz
+LIB003241_S86_L006_R2_001.fastq.gz
+
+cat LIB003241_S86_L005_R1_001.fastq.gz LIB003241_S86_L006_R1_001.fastq.gz > LIB003241_S86_R1_001.fastq.gz
+cat LIB003241_S86_L005_R2_001.fastq.gz LIB003241_S86_L006_R2_001.fastq.gz > LIB003241_S86_R2_001.fastq.gz
+
+LIB003242_S74_L005_R1_001.fastq.gz
+LIB003242_S74_L005_R2_001.fastq.gz
+LIB003242_S74_L006_R1_001.fastq.gz
+LIB003242_S74_L006_R2_001.fastq.gz
+
+cat LIB003242_S74_L005_R1_001.fastq.gz LIB003242_S74_L006_R1_001.fastq.gz > LIB003242_S74_R1_001.fastq.gz
+cat LIB003242_S74_L005_R2_001.fastq.gz LIB003242_S74_L006_R2_001.fastq.gz > LIB003242_S74_R2_001.fastq.gz
+
+LIB003243_S62_L005_R1_001.fastq.gz
+LIB003243_S62_L005_R2_001.fastq.gz
+LIB003243_S62_L006_R1_001.fastq.gz
+LIB003243_S62_L006_R2_001.fastq.gz
+
+cat LIB003243_S62_L005_R1_001.fastq.gz LIB003243_S62_L006_R1_001.fastq.gz > LIB003243_S62_R1_001.fastq.gz
+cat LIB003243_S62_L005_R2_001.fastq.gz LIB003243_S62_L006_R2_001.fastq.gz > LIB003243_S62_R2_001.fastq.gz
+
+LIB003244_S77_L005_R1_001.fastq.gz
+LIB003244_S77_L005_R2_001.fastq.gz
+LIB003244_S77_L006_R1_001.fastq.gz
+LIB003244_S77_L006_R2_001.fastq.gz
+
+cat LIB003244_S77_L005_R1_001.fastq.gz LIB003244_S77_L006_R1_001.fastq.gz > LIB003244_S77_R1_001.fastq.gz
+cat LIB003244_S77_L005_R2_001.fastq.gz LIB003244_S77_L006_R2_001.fastq.gz > LIB003244_S77_R2_001.fastq.gz
+
+LIB003245_S51_L005_R1_001.fastq.gz
+LIB003245_S51_L005_R2_001.fastq.gz
+LIB003245_S51_L006_R1_001.fastq.gz
+LIB003245_S51_L006_R2_001.fastq.gz
+
+cat LIB003245_S51_L005_R1_001.fastq.gz LIB003245_S51_L006_R1_001.fastq.gz > LIB003245_S51_R1_001.fastq.gz
+cat LIB003245_S51_L005_R2_001.fastq.gz LIB003245_S51_L006_R2_001.fastq.gz > LIB003245_S51_R2_001.fastq.gz
+
+LIB003246_S80_L005_R1_001.fastq.gz
+LIB003246_S80_L005_R2_001.fastq.gz
+LIB003246_S80_L006_R1_001.fastq.gz
+LIB003246_S80_L006_R2_001.fastq.gz
+
+cat LIB003246_S80_L005_R1_001.fastq.gz LIB003246_S80_L006_R1_001.fastq.gz > LIB003246_S80_R1_001.fastq.gz
+cat LIB003246_S80_L005_R2_001.fastq.gz LIB003246_S80_L006_R2_001.fastq.gz > LIB003246_S80_R2_001.fastq.gz
+
+LIB003247_S48_L005_R1_001.fastq.gz
+LIB003247_S48_L005_R2_001.fastq.gz
+LIB003247_S48_L006_R1_001.fastq.gz
+LIB003247_S48_L006_R2_001.fastq.gz
+
+cat LIB003247_S48_L005_R1_001.fastq.gz LIB003247_S48_L006_R1_001.fastq.gz > LIB003247_S48_R1_001.fastq.gz
+cat LIB003247_S48_L005_R2_001.fastq.gz LIB003247_S48_L006_R2_001.fastq.gz > LIB003247_S48_R2_001.fastq.gz
+
+LIB003248_S79_L005_R1_001.fastq.gz
+LIB003248_S79_L005_R2_001.fastq.gz
+LIB003248_S79_L006_R1_001.fastq.gz
+LIB003248_S79_L006_R2_001.fastq.gz
+
+cat LIB003248_S79_L005_R1_001.fastq.gz LIB003248_S79_L006_R1_001.fastq.gz > LIB003248_S79_R1_001.fastq.gz
+cat LIB003248_S79_L005_R2_001.fastq.gz LIB003248_S79_L006_R2_001.fastq.gz > LIB003248_S79_R2_001.fastq.gz
+
+LIB003249_S61_L005_R1_001.fastq.gz
+LIB003249_S61_L005_R2_001.fastq.gz
+LIB003249_S61_L006_R1_001.fastq.gz
+LIB003249_S61_L006_R2_001.fastq.gz
+
+cat LIB003249_S61_L005_R1_001.fastq.gz LIB003249_S61_L006_R1_001.fastq.gz > LIB003249_S61_R1_001.fastq.gz
+cat LIB003249_S61_L005_R2_001.fastq.gz LIB003249_S61_L006_R2_001.fastq.gz > LIB003249_S61_R2_001.fastq.gz
+
+LIB003250_S52_L005_R1_001.fastq.gz
+LIB003250_S52_L005_R2_001.fastq.gz
+LIB003250_S52_L006_R1_001.fastq.gz
+LIB003250_S52_L006_R2_001.fastq.gz
+
+cat LIB003250_S52_L005_R1_001.fastq.gz LIB003250_S52_L006_R1_001.fastq.gz > LIB003250_S52_R1_001.fastq.gz
+cat LIB003250_S52_L005_R2_001.fastq.gz LIB003250_S52_L006_R2_001.fastq.gz > LIB003250_S52_R2_001.fastq.gz
+
+LIB003251_S91_L005_R1_001.fastq.gz
+LIB003251_S91_L005_R2_001.fastq.gz
+LIB003251_S91_L006_R1_001.fastq.gz
+LIB003251_S91_L006_R2_001.fastq.gz
+
+cat LIB003251_S91_L005_R1_001.fastq.gz LIB003251_S91_L006_R1_001.fastq.gz > LIB003251_S91_R1_001.fastq.gz
+cat LIB003251_S91_L005_R2_001.fastq.gz LIB003251_S91_L006_R2_001.fastq.gz > LIB003251_S91_R2_001.fastq.gz
+
+LIB003252_S68_L005_R1_001.fastq.gz
+LIB003252_S68_L005_R2_001.fastq.gz
+LIB003252_S68_L006_R1_001.fastq.gz
+LIB003252_S68_L006_R2_001.fastq.gz
+
+cat LIB003252_S68_L005_R1_001.fastq.gz LIB003252_S68_L006_R1_001.fastq.gz > LIB003252_S68_R1_001.fastq.gz
+cat LIB003252_S68_L005_R2_001.fastq.gz LIB003252_S68_L006_R2_001.fastq.gz > LIB003252_S68_R2_001.fastq.gz
+
+LIB003253_S93_L005_R1_001.fastq.gz
+LIB003253_S93_L005_R2_001.fastq.gz
+LIB003253_S93_L006_R1_001.fastq.gz
+LIB003253_S93_L006_R2_001.fastq.gz
+
+cat LIB003253_S93_L005_R1_001.fastq.gz LIB003253_S93_L006_R1_001.fastq.gz > LIB003253_S93_R1_001.fastq.gz
+cat LIB003253_S93_L005_R2_001.fastq.gz LIB003253_S93_L006_R2_001.fastq.gz > LIB003253_S93_R2_001.fastq.gz
+
+LIB003254_S75_L005_R1_001.fastq.gz
+LIB003254_S75_L005_R2_001.fastq.gz
+LIB003254_S75_L006_R1_001.fastq.gz
+LIB003254_S75_L006_R2_001.fastq.gz
+
+cat LIB003254_S75_L005_R1_001.fastq.gz LIB003254_S75_L006_R1_001.fastq.gz > LIB003254_S75_R1_001.fastq.gz
+cat LIB003254_S75_L005_R2_001.fastq.gz LIB003254_S75_L006_R2_001.fastq.gz > LIB003254_S75_R2_001.fastq.gz
+
+LIB003255_S90_L005_R1_001.fastq.gz
+LIB003255_S90_L005_R2_001.fastq.gz
+LIB003255_S90_L006_R1_001.fastq.gz
+LIB003255_S90_L006_R2_001.fastq.gz
+
+cat LIB003255_S90_L005_R1_001.fastq.gz LIB003255_S90_L006_R1_001.fastq.gz > LIB003255_S90_R1_001.fastq.gz
+cat LIB003255_S90_L005_R2_001.fastq.gz LIB003255_S90_L006_R2_001.fastq.gz > LIB003255_S90_R2_001.fastq.gz
+
+LIB003256_S63_L005_R1_001.fastq.gz
+LIB003256_S63_L005_R2_001.fastq.gz
+LIB003256_S63_L006_R1_001.fastq.gz
+LIB003256_S63_L006_R2_001.fastq.gz
+
+cat LIB003256_S63_L005_R1_001.fastq.gz LIB003256_S63_L006_R1_001.fastq.gz > LIB003256_S63_R1_001.fastq.gz
+cat LIB003256_S63_L005_R2_001.fastq.gz LIB003256_S63_L006_R2_001.fastq.gz > LIB003256_S63_R2_001.fastq.gz
+
+LIB003257_S66_L005_R1_001.fastq.gz
+LIB003257_S66_L005_R2_001.fastq.gz
+LIB003257_S66_L006_R1_001.fastq.gz
+LIB003257_S66_L006_R2_001.fastq.gz
+
+cat LIB003257_S66_L005_R1_001.fastq.gz LIB003257_S66_L006_R1_001.fastq.gz > LIB003257_S66_R1_001.fastq.gz
+cat LIB003257_S66_L005_R2_001.fastq.gz LIB003257_S66_L006_R2_001.fastq.gz > LIB003257_S66_R2_001.fastq.gz
+
+LIB003258_S78_L005_R1_001.fastq.gz
+LIB003258_S78_L005_R2_001.fastq.gz
+LIB003258_S78_L006_R1_001.fastq.gz
+LIB003258_S78_L006_R2_001.fastq.gz
+
+cat LIB003258_S78_L005_R1_001.fastq.gz LIB003258_S78_L006_R1_001.fastq.gz > LIB003258_S78_R1_001.fastq.gz
+cat LIB003258_S78_L005_R2_001.fastq.gz LIB003258_S78_L006_R2_001.fastq.gz > LIB003258_S78_R2_001.fastq.gz
+
+LIB003259_S73_L005_R1_001.fastq.gz
+LIB003259_S73_L005_R2_001.fastq.gz
+LIB003259_S73_L006_R1_001.fastq.gz
+LIB003259_S73_L006_R2_001.fastq.gz
+
+cat LIB003259_S73_L005_R1_001.fastq.gz LIB003259_S73_L006_R1_001.fastq.gz > LIB003259_S73_R1_001.fastq.gz
+cat LIB003259_S73_L005_R2_001.fastq.gz LIB003259_S73_L006_R2_001.fastq.gz > LIB003259_S73_R2_001.fastq.gz
+
+LIB003260_S94_L005_R1_001.fastq.gz
+LIB003260_S94_L005_R2_001.fastq.gz
+LIB003260_S94_L006_R1_001.fastq.gz
+LIB003260_S94_L006_R2_001.fastq.gz
+
+cat LIB003260_S94_L005_R1_001.fastq.gz LIB003260_S94_L006_R1_001.fastq.gz > LIB003260_S94_R1_001.fastq.gz
+cat LIB003260_S94_L005_R2_001.fastq.gz LIB003260_S94_L006_R2_001.fastq.gz > LIB003260_S94_R2_001.fastq.gz
+
+LIB003261_S88_L005_R1_001.fastq.gz
+LIB003261_S88_L005_R2_001.fastq.gz
+LIB003261_S88_L006_R1_001.fastq.gz
+LIB003261_S88_L006_R2_001.fastq.gz
+
+cat LIB003261_S88_L005_R1_001.fastq.gz LIB003261_S88_L006_R1_001.fastq.gz > LIB003261_S88_R1_001.fastq.gz
+cat LIB003261_S88_L005_R2_001.fastq.gz LIB003261_S88_L006_R2_001.fastq.gz > LIB003261_S88_R2_001.fastq.gz
+
+LIB003262_S46_L005_R1_001.fastq.gz
+LIB003262_S46_L005_R2_001.fastq.gz
+LIB003262_S46_L006_R1_001.fastq.gz
+LIB003262_S46_L006_R2_001.fastq.gz
+
+cat LIB003262_S46_L005_R1_001.fastq.gz LIB003262_S46_L006_R1_001.fastq.gz > LIB003262_S46_R1_001.fastq.gz
+cat LIB003262_S46_L005_R2_001.fastq.gz LIB003262_S46_L006_R2_001.fastq.gz > LIB003262_S46_R2_001.fastq.gz
+
+LIB003263_S42_L005_R1_001.fastq.gz
+LIB003263_S42_L005_R2_001.fastq.gz
+LIB003263_S42_L006_R1_001.fastq.gz
+LIB003263_S42_L006_R2_001.fastq.gz
+
+cat LIB003263_S42_L005_R1_001.fastq.gz LIB003263_S42_L006_R1_001.fastq.gz > LIB003263_S42_R1_001.fastq.gz
+cat LIB003263_S42_L005_R2_001.fastq.gz LIB003263_S42_L006_R2_001.fastq.gz > LIB003263_S42_R2_001.fastq.gz
+
+LIB003264_S53_L005_R1_001.fastq.gz
+LIB003264_S53_L005_R2_001.fastq.gz
+LIB003264_S53_L006_R1_001.fastq.gz
+LIB003264_S53_L006_R2_001.fastq.gz
+
+cat LIB003264_S53_L005_R1_001.fastq.gz LIB003264_S53_L006_R1_001.fastq.gz > LIB003264_S53_R1_001.fastq.gz
+cat LIB003264_S53_L005_R2_001.fastq.gz LIB003264_S53_L006_R2_001.fastq.gz > LIB003264_S53_R2_001.fastq.gz
+
+LIB003265_S92_L005_R1_001.fastq.gz
+LIB003265_S92_L005_R2_001.fastq.gz
+LIB003265_S92_L006_R1_001.fastq.gz
+LIB003265_S92_L006_R2_001.fastq.gz
+
+cat LIB003265_S92_L005_R1_001.fastq.gz LIB003265_S92_L006_R1_001.fastq.gz > LIB003265_S92_R1_001.fastq.gz
+cat LIB003265_S92_L005_R2_001.fastq.gz LIB003265_S92_L006_R2_001.fastq.gz > LIB003265_S92_R2_001.fastq.gz
+
+LIB003266_S69_L005_R1_001.fastq.gz
+LIB003266_S69_L005_R2_001.fastq.gz
+LIB003266_S69_L006_R1_001.fastq.gz
+LIB003266_S69_L006_R2_001.fastq.gz
+
+cat LIB003266_S69_L005_R1_001.fastq.gz LIB003266_S69_L006_R1_001.fastq.gz > LIB003266_S69_R1_001.fastq.gz
+cat LIB003266_S69_L005_R2_001.fastq.gz LIB003266_S69_L006_R2_001.fastq.gz > LIB003266_S69_R2_001.fastq.gz
+
+LIB003267_S60_L005_R1_001.fastq.gz
+LIB003267_S60_L005_R2_001.fastq.gz
+LIB003267_S60_L006_R1_001.fastq.gz
+LIB003267_S60_L006_R2_001.fastq.gz
+
+cat LIB003267_S60_L005_R1_001.fastq.gz LIB003267_S60_L006_R1_001.fastq.gz > LIB003267_S60_R1_001.fastq.gz
+cat LIB003267_S60_L005_R2_001.fastq.gz LIB003267_S60_L006_R2_001.fastq.gz > LIB003267_S60_R2_001.fastq.gz
+
+LIB003268_S59_L005_R1_001.fastq.gz
+LIB003268_S59_L005_R2_001.fastq.gz
+LIB003268_S59_L006_R1_001.fastq.gz
+LIB003268_S59_L006_R2_001.fastq.gz
+
+cat LIB003268_S59_L005_R1_001.fastq.gz LIB003268_S59_L006_R1_001.fastq.gz > LIB003268_S59_R1_001.fastq.gz
+cat LIB003268_S59_L005_R2_001.fastq.gz LIB003268_S59_L006_R2_001.fastq.gz > LIB003268_S59_R2_001.fastq.gz
+
+LIB003269_S89_L005_R1_001.fastq.gz
+LIB003269_S89_L005_R2_001.fastq.gz
+LIB003269_S89_L006_R1_001.fastq.gz
+LIB003269_S89_L006_R2_001.fastq.gz
+
+cat LIB003269_S89_L005_R1_001.fastq.gz LIB003269_S89_L006_R1_001.fastq.gz > LIB003269_S89_R1_001.fastq.gz
+cat LIB003269_S89_L005_R2_001.fastq.gz LIB003269_S89_L006_R2_001.fastq.gz > LIB003269_S89_R2_001.fastq.gz
+
+LIB003270_S45_L005_R1_001.fastq.gz
+LIB003270_S45_L005_R2_001.fastq.gz
+LIB003270_S45_L006_R1_001.fastq.gz
+LIB003270_S45_L006_R2_001.fastq.gz
+
+cat LIB003270_S45_L005_R1_001.fastq.gz LIB003270_S45_L006_R1_001.fastq.gz > LIB003270_S45_R1_001.fastq.gz
+cat LIB003270_S45_L005_R2_001.fastq.gz LIB003270_S45_L006_R2_001.fastq.gz > LIB003270_S45_R2_001.fastq.gz
+
+LIB003271_S47_L005_R1_001.fastq.gz
+LIB003271_S47_L005_R2_001.fastq.gz
+LIB003271_S47_L006_R1_001.fastq.gz
+LIB003271_S47_L006_R2_001.fastq.gz
+
+cat LIB003271_S47_L005_R1_001.fastq.gz LIB003271_S47_L006_R1_001.fastq.gz > LIB003271_S47_R1_001.fastq.gz
+cat LIB003271_S47_L005_R2_001.fastq.gz LIB003271_S47_L006_R2_001.fastq.gz > LIB003271_S47_R2_001.fastq.gz
+
+LIB003272_S64_L005_R1_001.fastq.gz
+LIB003272_S64_L005_R2_001.fastq.gz
+LIB003272_S64_L006_R1_001.fastq.gz
+LIB003272_S64_L006_R2_001.fastq.gz
+
+cat LIB003272_S64_L005_R1_001.fastq.gz LIB003272_S64_L006_R1_001.fastq.gz > LIB003272_S64_R1_001.fastq.gz
+cat LIB003272_S64_L005_R2_001.fastq.gz LIB003272_S64_L006_R2_001.fastq.gz > LIB003272_S64_R2_001.fastq.gz
+
+LIB003273_S57_L005_R1_001.fastq.gz
+LIB003273_S57_L005_R2_001.fastq.gz
+LIB003273_S57_L006_R1_001.fastq.gz
+LIB003273_S57_L006_R2_001.fastq.gz
+
+cat LIB003273_S57_L005_R1_001.fastq.gz LIB003273_S57_L006_R1_001.fastq.gz > LIB003273_S57_R1_001.fastq.gz
+cat LIB003273_S57_L005_R2_001.fastq.gz LIB003273_S57_L006_R2_001.fastq.gz > LIB003273_S57_R2_001.fastq.gz
+
+LIB003274_S95_L005_R1_001.fastq.gz
+LIB003274_S95_L005_R2_001.fastq.gz
+LIB003274_S95_L006_R1_001.fastq.gz
+LIB003274_S95_L006_R2_001.fastq.gz
+
+cat LIB003274_S95_L005_R1_001.fastq.gz LIB003274_S95_L006_R1_001.fastq.gz > LIB003274_S95_R1_001.fastq.gz
+cat LIB003274_S95_L005_R2_001.fastq.gz LIB003274_S95_L006_R2_001.fastq.gz > LIB003274_S95_R2_001.fastq.gz
+
+LIB003275_S97_L005_R1_001.fastq.gz
+LIB003275_S97_L005_R2_001.fastq.gz
+LIB003275_S97_L006_R1_001.fastq.gz
+LIB003275_S97_L006_R2_001.fastq.gz
+
+cat LIB003275_S97_L005_R1_001.fastq.gz LIB003275_S97_L006_R1_001.fastq.gz > LIB003275_S97_R1_001.fastq.gz
+cat LIB003275_S97_L005_R2_001.fastq.gz LIB003275_S97_L006_R2_001.fastq.gz > LIB003275_S97_R2_001.fastq.gz
+
+LIB003276_S71_L005_R1_001.fastq.gz
+LIB003276_S71_L005_R2_001.fastq.gz
+LIB003276_S71_L006_R1_001.fastq.gz
+LIB003276_S71_L006_R2_001.fastq.gz
+
+cat LIB003276_S71_L005_R1_001.fastq.gz LIB003276_S71_L006_R1_001.fastq.gz > LIB003276_S71_R1_001.fastq.gz
+cat LIB003276_S71_L005_R2_001.fastq.gz LIB003276_S71_L006_R2_001.fastq.gz > LIB003276_S71_R2_001.fastq.gz
+
+LIB003277_S96_L005_R1_001.fastq.gz
+LIB003277_S96_L005_R2_001.fastq.gz
+LIB003277_S96_L006_R1_001.fastq.gz
+LIB003277_S96_L006_R2_001.fastq.gz
+
+cat LIB003277_S96_L005_R1_001.fastq.gz LIB003277_S96_L006_R1_001.fastq.gz > LIB003277_S96_R1_001.fastq.gz
+cat LIB003277_S96_L005_R2_001.fastq.gz LIB003277_S96_L006_R2_001.fastq.gz > LIB003277_S96_R2_001.fastq.gz
+
+LIB003278_S49_L005_R1_001.fastq.gz
+LIB003278_S49_L005_R2_001.fastq.gz
+LIB003278_S49_L006_R1_001.fastq.gz
+LIB003278_S49_L006_R2_001.fastq.gz
+
+cat LIB003278_S49_L005_R1_001.fastq.gz LIB003278_S49_L006_R1_001.fastq.gz > LIB003278_S49_R1_001.fastq.gz
+cat LIB003278_S49_L005_R2_001.fastq.gz LIB003278_S49_L006_R2_001.fastq.gz > LIB003278_S49_R2_001.fastq.gz
+
+LIB003279_S83_L005_R1_001.fastq.gz
+LIB003279_S83_L005_R2_001.fastq.gz
+LIB003279_S83_L006_R1_001.fastq.gz
+LIB003279_S83_L006_R2_001.fastq.gz
+
+cat LIB003279_S83_L005_R1_001.fastq.gz LIB003279_S83_L006_R1_001.fastq.gz > LIB003279_S83_R1_001.fastq.gz
+cat LIB003279_S83_L005_R2_001.fastq.gz LIB003279_S83_L006_R2_001.fastq.gz > LIB003279_S83_R2_001.fastq.gz
+
+LIB003280_S84_L005_R1_001.fastq.gz
+LIB003280_S84_L005_R2_001.fastq.gz
+LIB003280_S84_L006_R1_001.fastq.gz
+LIB003280_S84_L006_R2_001.fastq.gz
+
+cat LIB003280_S84_L005_R1_001.fastq.gz LIB003280_S84_L006_R1_001.fastq.gz > LIB003280_S84_R1_001.fastq.gz
+cat LIB003280_S84_L005_R2_001.fastq.gz LIB003280_S84_L006_R2_001.fastq.gz > LIB003280_S84_R2_001.fastq.gz
+
+LIB003281_S44_L005_R1_001.fastq.gz
+LIB003281_S44_L005_R2_001.fastq.gz
+LIB003281_S44_L006_R1_001.fastq.gz
+LIB003281_S44_L006_R2_001.fastq.gz
+
+cat LIB003281_S44_L005_R1_001.fastq.gz LIB003281_S44_L006_R1_001.fastq.gz > LIB003281_S44_R1_001.fastq.gz
+cat LIB003281_S44_L005_R2_001.fastq.gz LIB003281_S44_L006_R2_001.fastq.gz > LIB003281_S44_R2_001.fastq.gz
+
+---
+
+###Quality Control with FastQC###
+
+#!/bin/bash
+#
+#SBATCH --job-name=qc-batch
+#SBATCH --ntasks-per-node=1
+#SBATCH --nodes=1
+#SBATCH --time=04:00:00
+#SBATCH --mail-type=BEGIN,END
+#SBATCH --mail-user=marisa.turk@stonybrook.edu
+#SBATCH -p short-40core
+module load shared
+cd $SLURM_SUBMIT_DIR
+module load hts/1.0
+fastqc LIB00325*
+fastqc LIB00326*
+fastqc LIB00327*
+fastqc LIB00328*
+
+---
+
+###Adapter trimming###
+
+#!/bin/bash
+#
+#SBATCH --job-name=trim-batch
+#SBATCH --ntasks-per-node=1
+#SBATCH --nodes=1
+#SBATCH --time=07:00:00
+#SBATCH --mail-type=BEGIN,END
+#SBATCH --mail-user=marisa.turk@stonybrook.edu
+#SBATCH -p medium-40core
+module load shared
+cd $SLURM_SUBMIT_DIR
+module load hts/1.0
+trimmomatic PE -threads 40 -phred33 LIB003224*R1_001.fastq.gz LIB003224*R2_001.fastq.gz -baseout LIB003224_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003225_S98_R1_001.fastq.gz LIB003225_S98_R2_001.fastq.gz -baseout LIB003225_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003226_S81_R1_001.fastq.gz LIB003226_S81_R2_001.fastq.gz -baseout LIB003226_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003227_S82_R1_001.fastq.gz LIB003227_S82_R2_001.fastq.gz -baseout LIB003227_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003228_S41_R1_001.fastq.gz LIB003228_S41_R2_001.fastq.gz -baseout LIB003228_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003229_S56_R1_001.fastq.gz LIB003229_S56_R2_001.fastq.gz -baseout LIB003229_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003230_S58_R1_001.fastq.gz LIB003230_S58_R2_001.fastq.gz -baseout LIB003230_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003231_S65_R1_001.fastq.gz LIB003231_S65_R2_001.fastq.gz -baseout LIB003231_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003232_S54_R1_001.fastq.gz LIB003232_S54_R2_001.fastq.gz -baseout LIB003232_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003233_S85_R1_001.fastq.gz LIB003233_S85_R2_001.fastq.gz -baseout LIB003233_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003234_S43_R1_001.fastq.gz LIB003234_S43_R2_001.fastq.gz -baseout LIB003234_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003235_S55_R1_001.fastq.gz LIB003235_S55_R2_001.fastq.gz -baseout LIB003235_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003236_S67_R1_001.fastq.gz LIB003236_S67_R2_001.fastq.gz -baseout LIB003236_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003237_S76_R1_001.fastq.gz LIB003237_S76_R2_001.fastq.gz -baseout LIB003237_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003238_S87_R1_001.fastq.gz LIB003238_S87_R2_001.fastq.gz -baseout LIB003238_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003239_S72_R1_001.fastq.gz LIB003239_S72_R2_001.fastq.gz -baseout LIB003239_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003240_S50_R1_001.fastq.gz LIB003240_S50_R2_001.fastq.gz -baseout LIB003240_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003241_S86_R1_001.fastq.gz LIB003241_S86_R2_001.fastq.gz -baseout LIB003241_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003242_S74_R1_001.fastq.gz LIB003242_S74_R2_001.fastq.gz -baseout LIB003242_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003243_S62_R1_001.fastq.gz LIB003243_S62_R2_001.fastq.gz -baseout LIB003243_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003244_S77_R1_001.fastq.gz LIB003244_S77_R2_001.fastq.gz -baseout LIB003244_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003245_S51_R1_001.fastq.gz LIB003245_S51_R2_001.fastq.gz -baseout LIB003245_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003246_S80_R1_001.fastq.gz LIB003246_S80_R2_001.fastq.gz -baseout LIB003246_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003247_S48_R1_001.fastq.gz LIB003247_S48_R2_001.fastq.gz -baseout LIB003247_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003248_S79_R1_001.fastq.gz LIB003248_S79_R2_001.fastq.gz -baseout LIB003248_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003249_S61_R1_001.fastq.gz LIB003249_S61_R2_001.fastq.gz -baseout LIB003249_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003250_S52_R1_001.fastq.gz LIB003250_S52_R2_001.fastq.gz -baseout LIB003250_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003251*R1_001.fastq.gz LIB003251*R2_001.fastq.gz -baseout LIB003251_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003252*R1_001.fastq.gz LIB003252*R2_001.fastq.gz -baseout LIB003252_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003253*R1_001.fastq.gz LIB003253*R2_001.fastq.gz -baseout LIB003253_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003254*R1_001.fastq.gz LIB003254*R2_001.fastq.gz -baseout LIB003254_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003255*R1_001.fastq.gz LIB003255*R2_001.fastq.gz -baseout LIB003255_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003256*R1_001.fastq.gz LIB003256*R2_001.fastq.gz -baseout LIB003256_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003257*R1_001.fastq.gz LIB003257*R2_001.fastq.gz -baseout LIB003257_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003258*R1_001.fastq.gz LIB003258*R2_001.fastq.gz -baseout LIB003258_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003259*R1_001.fastq.gz LIB003259*R2_001.fastq.gz -baseout LIB003259_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003260*R1_001.fastq.gz LIB003260*R2_001.fastq.gz -baseout LIB003260_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003261*R1_001.fastq.gz LIB003261*R2_001.fastq.gz -baseout LIB003261_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003262*R1_001.fastq.gz LIB003262*R2_001.fastq.gz -baseout LIB003262_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003263*R1_001.fastq.gz LIB003263*R2_001.fastq.gz -baseout LIB003263_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003264*R1_001.fastq.gz LIB003264*R2_001.fastq.gz -baseout LIB003264_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003265*R1_001.fastq.gz LIB003265*R2_001.fastq.gz -baseout LIB003265_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003266*R1_001.fastq.gz LIB003266*R2_001.fastq.gz -baseout LIB003266_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003267*R1_001.fastq.gz LIB003267*R2_001.fastq.gz -baseout LIB003267_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003268*R1_001.fastq.gz LIB003268*R2_001.fastq.gz -baseout LIB003268_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003269*R1_001.fastq.gz LIB003269*R2_001.fastq.gz -baseout LIB003269_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003270*R1_001.fastq.gz LIB003270*R2_001.fastq.gz -baseout LIB003270_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003271*R1_001.fastq.gz LIB003271*R2_001.fastq.gz -baseout LIB003271_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003272*R1_001.fastq.gz LIB003272*R2_001.fastq.gz -baseout LIB003272_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003273*R1_001.fastq.gz LIB003273*R2_001.fastq.gz -baseout LIB003273_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003274*R1_001.fastq.gz LIB003274*R2_001.fastq.gz -baseout LIB003274_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003275*R1_001.fastq.gz LIB003275*R2_001.fastq.gz -baseout LIB003275_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003276*R1_001.fastq.gz LIB003276*R2_001.fastq.gz -baseout LIB003276_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003277*R1_001.fastq.gz LIB003277*R2_001.fastq.gz -baseout LIB003277_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003278*R1_001.fastq.gz LIB003278*R2_001.fastq.gz -baseout LIB003278_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003279*R1_001.fastq.gz LIB003279*R2_001.fastq.gz -baseout LIB003279_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003280*R1_001.fastq.gz LIB003280*R2_001.fastq.gz -baseout LIB003280_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+trimmomatic PE -threads 40 -phred33 LIB003281*R1_001.fastq.gz LIB003281*R2_001.fastq.gz -baseout LIB003281_trim.fastq.gz ILLUMINACLIP:NexteraPE-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:25
+
+---
+
+###Concatenating trimmed files###
+[mturk@milan2 trimmed]$ cat *3224*.fastq.gz > LIB003224_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3225*.fastq.gz > LIB003225_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3226*.fastq.gz > LIB003226_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3227*.fastq.gz > LIB003227_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3228*.fastq.gz > LIB003228_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3229*.fastq.gz > LIB003229_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3230*.fastq.gz > LIB003230_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3231*.fastq.gz > LIB003231_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3232*.fastq.gz > LIB003232_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3233*.fastq.gz > LIB003233_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3234*.fastq.gz > LIB003234_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3235*.fastq.gz > LIB003235_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3236*.fastq.gz > LIB003236_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3237*.fastq.gz > LIB003237_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3238*.fastq.gz > LIB003238_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3239*.fastq.gz > LIB003239_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3240*.fastq.gz > LIB003240_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3241*.fastq.gz > LIB003241_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3242*.fastq.gz > LIB003242_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3243*.fastq.gz > LIB003243_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3244*.fastq.gz > LIB003244_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3245*.fastq.gz > LIB003245_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3246*.fastq.gz > LIB003246_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3247*.fastq.gz > LIB003247_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3248*.fastq.gz > LIB003248_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3249*.fastq.gz > LIB003249_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3250*.fastq.gz > LIB003250_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3251*.fastq.gz > LIB003251_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3252*.fastq.gz > LIB003252_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3253*.fastq.gz > LIB003253_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3254*.fastq.gz > LIB003254_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3255*.fastq.gz > LIB003255_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3256*.fastq.gz > LIB003256_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3257*.fastq.gz > LIB003257_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3258*.fastq.gz > LIB003258_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3259*.fastq.gz > LIB003259_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3260*.fastq.gz > LIB003260_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3261*.fastq.gz > LIB003261_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3262*.fastq.gz > LIB003262_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3263*.fastq.gz > LIB003263_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3264*.fastq.gz > LIB003264_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3265*.fastq.gz > LIB003265_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3266*.fastq.gz > LIB003266_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3267*.fastq.gz > LIB003267_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3268*.fastq.gz > LIB003268_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3269*.fastq.gz > LIB003269_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3270*.fastq.gz > LIB003270_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3271*.fastq.gz > LIB003271_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3272*.fastq.gz > LIB003272_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3273*.fastq.gz > LIB003273_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3274*.fastq.gz > LIB003274_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3275*.fastq.gz > LIB003275_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3276*.fastq.gz > LIB003276_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3277*.fastq.gz > LIB003277_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3278*.fastq.gz > LIB003278_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3279*.fastq.gz > LIB003279_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3280*.fastq.gz > LIB003280_trim_cat.fastq.gz
+[mturk@milan2 trimmed]$ cat *3281*.fastq.gz > LIB003281_trim_cat.fastq.gz
+
+---
+
+###Alignments###
+
+#!/bin/bash
+#
+#SBATCH --job-name=align-batch
+#SBATCH --ntasks-per-node=1
+#SBATCH --nodes=1
+#SBATCH --time=04:00:00
+#SBATCH --mail-type=BEGIN,END
+#SBATCH --mail-user=marisa.turk@stonybrook.edu
+#SBATCH -p short-40core
+module load shared
+cd $SLURM_SUBMIT_DIR
+module load hts/1.0
+
+for i in *cat*; do 
+bowtie2 -x ref --local -X 1000 -q $i -S ${i%%_*}.sam
+done 
+
+---
+
+###Deduplicating reads and calculating mitogenome coverage###
+
+#!/bin/bash
+#
+#SBATCH --job-name=samtools-batch
+#SBATCH --ntasks-per-node=1
+#SBATCH --nodes=1
+#SBATCH --time=04:00:00
+#SBATCH --mail-type=BEGIN,END
+#SBATCH --mail-user=marisa.turk@stonybrook.edu
+#SBATCH -p short-40core
+module load shared
+cd $SLURM_SUBMIT_DIR
+module load hts/1.0
+
+for i in *sam; do
+echo $i
+
+samtools view -S -b -q 30 -F 4 $i > ${i%.*}.bam
+
+samtools sort ${i%.*}.bam -o ${i%.*}.srt.bam
+
+samtools rmdup -s ${i%.*}.srt.bam ${i%.*}.dup.bam
+
+samtools mpileup -BQ0 -d10000000 -f ./NC_019582.1.fasta ./${i%.*}.dup.bam | awk '{ count++ ; SUM += $4 } END { print "Total ${i%.*}: " SUM "\t" "Nucleotides: " count "\t" "Average_coverage: " SUM/count }'
+
+done 
+
+---
+
+###Samtools for Variant Calling###
+#Variant calling
+#code from https://samtools.github.io/bcftools/howtos/variant-calling.html
+
+bcftools mpileup -Ou -f NC_019582.1.fasta LIB003224.dup.bam | bcftools call -mv -Ob -o LIB003224calls.bcf
+
+for i in *.dup.bam; do
+bcftools mpileup -Ou -f NC_019582.1.fasta $i | bcftools call -mv -Ob -o ${i%.*.*}_calls.bcf
+done
+
+for i in *bcf; do
+bcftools index $i
+done
+
+---
+
+#Filtering
+#Min qual score of 20, min read depth of 4
+
+for i in *bcf; do
+bcftools filter -i'QUAL>20' $i | bcftools filter -i'DP>3' $i -o ${i%.*}_filtered.bcf
+done
+
+for i in *filtered.bcf; do
+bcftools index $i
+done
+
+---
+
+###Creating consensus sequences###
+#workflow from https://samtools.github.io/bcftools/howtos/consensus-sequence.html
+
+#Normalize indels
+for i in *filtered.bcf; do
+bcftools norm -f NC_019582.1.fasta $i -Ob -o ${i%.*}.norm.bcf
+done
+
+#Filter adjacent indels within 5bp
+for i in *norm.bcf; do
+bcftools filter --IndelGap 5 $i -Ob -o ${i%.*.*}.norm.flt-indels.bcf
+done
+
+#Apply variants to create consensus sequence
+for i in *filtered.bcf; do
+cat NC_019582.1.fasta | bcftools consensus $i > ${i%_*_*}_consensus.fa
+done
+
+#Output IUPAC ambiguity codes based on REF+ALT columns (regardless of genotype)
+for i in *filtered.bcf; do
+cat NC_019582.1.fasta | bcftools consensus --iupac-codes $i > ${i%_*_*}_consensus.fa
+done
+
+#Output IUPAC ambiguity codes based on sample genotypes
+for i in *filtered.bcf; do
+cat NC_019582.1.fasta | bcftools consensus --haplotype I $i > ${i%_*_*}_consensus.fa
+done
+
+---
+
+###Clustal Omega for multiple alignment###
+clustal_omega -i subset_90_consensus.fa --outfmt fa > subset_90_consensus.clustalo.fa
+
+---
+
+###RAxML for ML tree construction###
+raxmlHPC-SSE3 -s subset_90_consensus.clustalo.fa -n FullRAxMLOutput -m GTRGAMMA -p 222 -N 1000 -f a -x 222
